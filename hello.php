@@ -1,5 +1,4 @@
 <?php
 
-// Printing Hello Below CODE
+// Below code will print hello.
 print_r ("hello");
-// This is a pr testingssssssssssssssseeeefff
